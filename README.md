@@ -1,26 +1,13 @@
 ###
 # Hi 🎉 Welcome to YuYueSummer's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+ ⚡ technology ⚡ Repeat correctly. Connect with me here 2768007621@qq.com
+
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 -  🌱 CSDN: https://blog.csdn.net/m0_70420861?
 -  🔭 My interests: Python AI Machine-Learning Deep-Learning Computer-Vision Data-Mining OpenCV AR Raspberry-Pi
 -  ⚽ My representative work: [Read-AI-Paper](https://space.bilibili.com/1900783/channel/seriesdetail?sid=250032) [Fun-Python-Demo](https://space.bilibili.com/1900783/channel/seriesdetail?sid=250031) [Stanford-CS231N-Chinese-Tutorial](https://www.bilibili.com/video/BV1K7411W7So)
-
-
-<h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
-
-
-
-
-
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
-
-
-
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
-
-
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
@@ -55,23 +42,24 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 
+<h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
-<!--
-<table border="0">
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
-</td>
-</tr>
-</table>
--->
+
+
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LittleBeanBun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBeanBun&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+
+
+
+
+
+
+
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
