@@ -5,10 +5,9 @@
 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
--  🌱 CSDN: https://blog.csdn.net/m0_70420861?
+-  🌱 CSDN: http://blog.csdn.net/m0_70420861
 -  🔭 My interests: Machine-Learning Deep-Learning Computer-Vision OpenCV TensorRT
--  ⚽ My representative work: [Read-AI-Paper](https://space.bilibili.com/1900783/channel/seriesdetail?sid=250032) [Fun-Python-Demo](https://space.bilibili.com/1900783/channel/seriesdetail?sid=250031) [Stanford-CS231N-Chinese-Tutorial](https://www.bilibili.com/video/BV1K7411W7So)
-
+-  ⚽ My representative work: RISAT: real-time instance segmentation with adversarialtraining  https://rdcu.be/cR922
 
 
 - 💻 I work using:
@@ -24,13 +23,13 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://blog.i-xiao.space/)
  
-- 🌱 I’m currently learning:
+- ⚡ I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://blog.i-xiao.space/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
 
-
+- ❓
 
 <h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
 
@@ -110,27 +109,8 @@
 
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 
