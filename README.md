@@ -18,18 +18,17 @@
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
  
 
-- ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://blog.i-xiao.space/)
- 
-- ⚡ I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://blog.i-xiao.space/)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
 
-- ❓
+- ⚡ I’m currently learning:
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-red?style=plastic&logo=Tensorflow)
+  ![Pytorch](https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=Pytorch&logoColor=%23EE4C2C)
+  ![Opencv](https://img.shields.io/badge/Opencv-191A1B?style=plastic&logo=Opencv&logoColor=%23EE4C2C)
+
+
+
+
+- ❓How to connect with me?    2768007621@qq.com
 
 <h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
 
@@ -50,10 +49,6 @@
 
 
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
--->
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
