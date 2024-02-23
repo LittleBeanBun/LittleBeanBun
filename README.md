@@ -1,7 +1,7 @@
 ###
 # Hi 🎉 Welcome to LittleBeanBun's Github Homepage!
 
- ⚡ technology ⚡ Repeat correctly. Connect with me here 2768007621@qq.com
+ ⚡ technology ⚡ Repeat correctly. 
 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
@@ -10,7 +10,7 @@
 -  ⚽ My representative work: RISAT: real-time instance segmentation with adversarialtraining  https://rdcu.be/cR922
 
 
-- 💻 I work using:
+- 💻 I work using tools:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://blog.i-xiao.space/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
@@ -19,7 +19,7 @@
  
 
 
-- ⚡ I’m currently learning:
+- ⚡ My skill set:
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-red?style=plastic&logo=Tensorflow)
   ![Pytorch](https://img.shields.io/badge/Pytorch-blue?style=plastic&logo=Pytorch&logoColor=%23EE4C2C)
