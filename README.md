@@ -6,8 +6,9 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 -  🌱 CSDN: http://blog.csdn.net/m0_70420861
--  🔭 My interests: Machine-Learning Deep-Learning Computer-Vision OpenCV TensorRT
+-  🔭 My interests: Machine-Learning Deep-Learning Computer-Vision 
 -  ⚽ My representative work: RISAT: real-time instance segmentation with adversarialtraining  https://rdcu.be/cR922
+-  🚀 My Frameworks:CUDA Pytorch  Tensorflow TensorRT Opencv 
 
 
 - 💻 I work using tools:
