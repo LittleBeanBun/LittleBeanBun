@@ -8,7 +8,7 @@
 -  🌱 CSDN: http://blog.csdn.net/m0_70420861
 -  🔭 My interests: Machine-Learning Deep-Learning Computer-Vision 
 -  ⚽ My representative work: RISAT: real-time instance segmentation with adversarialtraining  https://rdcu.be/cR922
--  🚀 My Frameworks:CUDA Pytorch  Tensorflow TensorRT Opencv 
+-  🚀 Languages: C++ Python CUDA
 
 
 - 💻 I work using tools:
